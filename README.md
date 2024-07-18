@@ -1,4 +1,4 @@
-##👋 Hi, I’m Gila,
+## 👋 Hi, I’m Gila,
 
 👀 I’m interested in full-stack development, front-end design, and creating user-friendly applications.
 
