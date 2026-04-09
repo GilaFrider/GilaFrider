@@ -1,11 +1,8 @@
 ## 👋 Hi, I’m Gila,
 
-👀 I’m interested in full-stack development, front-end design, and creating user-friendly applications.
+BI Developer focused on delivering scalable analytics solutions with Power BI,Qlik and DAX.
 
-Practical software and Engineering graduate and a Flutter Mobile Stack Developer,
-Expertise in building end-to-end projects.
-
-Super love❤ to develop and feel free to invite me to your project development!
+Experienced in building data models, defining KPIsoperations. Strong SQL expertise with a background in DWH and ETL processes.
 
 🌎Reach me: g0548457103@gmail.com
 
